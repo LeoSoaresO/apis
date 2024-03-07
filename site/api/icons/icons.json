@@ -1,0 +1,50 @@
+[
+    {
+        "name" : "Angular",
+        "icon" : "https://leosoareso.github.io/apis/site/api/icons/svgs/angular.svg"
+    },
+    {
+        "name" : "Vue",
+        "icon" : "https://leosoareso.github.io/apis/site/api/icons/svgs/vue.svg"
+    },
+    {
+        "name" : "Typescript ",
+        "icon" : "https://leosoareso.github.io/apis/site/api/icons/svgs/typescript.svg"
+    },
+    {
+        "name" : "Javascript ",
+        "icon" : "https://leosoareso.github.io/apis/site/api/icons/svgs/javascript .svg"
+    },
+    {
+        "name" : "Node",
+        "icon" : "https://leosoareso.github.io/apis/site/api/icons/svgs/node.svg"
+    },
+    {
+        "name" : "Html",
+        "icon" : "https://leosoareso.github.io/apis/site/api/icons/svgs/html.svg"
+    },
+    {
+        "name" : "Css",
+        "icon" : "https://leosoareso.github.io/apis/site/api/icons/svgs/css.svg"
+    },
+    {
+        "name" : "Sass",
+        "icon" : "https://leosoareso.github.io/apis/site/api/icons/svgs/sass.svg"
+    },
+    {
+        "name" : "Less",
+        "icon" : "https://leosoareso.github.io/apis/site/api/icons/svgs/less.svg"
+    },
+    {
+        "name" : "Git",
+        "icon" : "https://leosoareso.github.io/apis/site/api/icons/svgs/git.svg"
+    },
+    {
+        "name" : "Ionic",
+        "icon" : "https://leosoareso.github.io/apis/site/api/icons/svgs/ionic.svg"
+    },
+    {
+        "name" : "Api",
+        "icon" : "https://leosoareso.github.io/apis/site/api/icons/svgs/api.svg"
+    }
+]
