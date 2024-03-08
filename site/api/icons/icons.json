@@ -1,5 +1,5 @@
 {
-    "starIcon": "https://leosoareso.github.io/apis/site/api/icons/svgs/star.svg",
+    "starIcon": "https://leosoareso.github.io/apis/site/api/icons/svgs/stars.svg",
     "skils":[
     
         {
@@ -19,7 +19,7 @@
         },
         {
             "name" : "Javascript ",
-            "icon" : "https://leosoareso.github.io/apis/site/api/icons/svgs/javascript .svg",
+            "icon" : "https://leosoareso.github.io/apis/site/api/icons/svgs/javascript.svg",
             "stars" : 4
         },
         {
