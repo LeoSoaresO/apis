@@ -1,0 +1,46 @@
+{
+    "exp": [
+        {
+            "company": "MassMedia",
+            "logo" : "https://leosoareso.github.io/apis/site/api/carrer/company-icons/mass.jpeg",
+            "role": "Desenvolvedor Front-end Sênior",
+            "time": "jul de 2023 - mar de 2024",
+            "designation"  : "Responsável pelo desenvolvimento de Dashboards com gráficos demonstrativos de clientes e possiveis concorrentes em seus respectivos mercados, utilizando Angular 16 e sua stack. Também responsável pelo desenvolvimento do novo site institucional da empresa e manutenção no mesmo, sou responsável pela manutenção e implementação de novas features na antiga plataforma interna da empresa."
+        },
+        {
+            "company": "Teddy Open Finance",
+            "logo" : "https://leosoareso.github.io/apis/site/api/carrer/company-icons/teddy.jpeg",
+            "role": "Desenvolvedor Front-end Pleno",
+            "time": "dez de 2022 - jun de 2023",
+            "designation"  : "Responsável diretamente pelo desenvolvimento de uma nova plataforma financeira baseada no conceito de White Label, usando como base uma antiga plataforma que lida com diversos tipos de usuários, acessos, e produtos financeiros."
+        },
+        {
+            "company": "Pense Open",
+            "logo" : "https://leosoareso.github.io/apis/site/api/carrer/company-icons/open.jpeg",
+            "role": "Desenvolvedor Front-end Pleno",
+            "time": "mai de 2022 - dez de 2022",
+            "designation"  : "Responsável pelo desenvolvimento de novos nódulos nos projetos institucionais do cliente MRV, também responsável por evoluir e padronizar o código seguindo os padrões do MVC."
+        },
+        {
+            "company": "Inicie Educação",
+            "logo" : "https://leosoareso.github.io/apis/site/api/carrer/company-icons/inicie.jpeg",
+            "role": "Desenvolvedor Front-end Pleno",
+            "time": "out de 2021 - abr de 2022",
+            "designation"  : "Responsável pelo desenvolvimento e manutenção de uma plataforma de gerenciamento, utilizando integrações entre o Angular/Angular JS e Laravel, participando ativamente da inovação do ciclo de vida do sistema e ainda responsável pela refatoração da plataforma para uma versão atual do Angular 2+."
+        },
+        {
+            "company": "Galeria Pagé",
+            "logo" : "https://leosoareso.github.io/apis/site/api/carrer/company-icons/galeriapage.jpeg",
+            "role": "Desenvolvedor Front-end Pleno",
+            "time": "jan de 2021 - set de 2021",
+            "designation"  : "Responsável pelo desenvolvimento e manutenção de projetos de alto nível, utilizando Angular como framework principal para desenvolvimento das aplicações e projetos, pela liderança do time de desenvolvimento front-end e deploy das aplicações em serviços de nuvem. Ainda responsável pela organização de tarefas e criação de casos de uso para tornar o sistema mais viável possível para os clientes e usuários."
+        },
+        {
+            "company": "Kognita Lab",
+            "logo" : "https://leosoareso.github.io/apis/site/api/carrer/company-icons/kognita.jpeg",
+            "role": "Desenvolvedor Front-end Junior e Designer",
+            "time": "jun de 2020 - jan de 2021",
+            "designation"  : "Responsável pela criação de protótipos de baixo e alto nível, estudo de casos de uso e usabilidade dos sistemas a serem desenvolvidos, sendo assim também responsável pelo design dos sistemas. Responsável pelo desenvolvimento e manutenção de projetos já existentes e emergentes utilizando PHP com Laravel para construção do Back-end e Angular para construção da aplicação no Front-end, e ainda responsável pela organização de tarefas."
+        }
+    ]
+}
