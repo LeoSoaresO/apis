@@ -1,5 +1,9 @@
 {
     "starIcon": "https://leosoareso.github.io/apis/site/api/icons/svgs/stars.svg",
+    "logo": "https://leosoareso.github.io/apis/site/api/icons/svgs/logo.svg",
+    "whtLogo": "https://leosoareso.github.io/apis/site/api/icons/svgs/logo_white.svg",
+    "sloganLogo": "https://leosoareso.github.io/apis/site/api/icons/svgs/logo_slogan.svg",
+    "sloganWhtLogo": "https://leosoareso.github.io/apis/site/api/icons/svgs/logo_slogan_wht.svg",
     "skils":[
     
         {
