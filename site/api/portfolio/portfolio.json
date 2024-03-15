@@ -1,0 +1,34 @@
+{
+    "port": [
+        {
+            "name": "Mass Media - Institucional",
+            "link" : "https://www.massmedia.com.br/",
+            "img" : "https://leosoareso.github.io/apis/site/api/portfolio/projects-imgs/mass.png",
+            "desc"  : "Feito com Angular, esse site foi um projeto de re-brand da empresa. Participei desde o inicio até a sua entrega."
+        },
+        {
+            "name": "Pense Open",
+            "link" : "https://penseopen.com/",
+            "img" : "https://leosoareso.github.io/apis/site/api/portfolio/projects-imgs/open.png",
+            "desc"  : "Fui responsável por implementar alguns módulos do site."
+        },
+        {
+            "name": "Inicie Educação",
+            "link" : "https://inicie.digital/",
+            "img" : "https://leosoareso.github.io/apis/site/api/portfolio/projects-imgs/inicie.png",
+            "desc"  : "Participei da criação e desenvolvimento de boa parte do site. Feito com React."
+        },
+        {
+            "name": "Kognita Lab",
+            "link" : "https://kognita.com.br/",
+            "img" : "https://leosoareso.github.io/apis/site/api/portfolio/projects-imgs/kognita.png",
+            "desc"  : "Participei desde o inicio do projeto, sendo esta também um re-brand da empresa."
+        },
+        {
+            "name": "F3 Capital",
+            "link" : "https://f3capital.com.br/",
+            "img" : "https://leosoareso.github.io/apis/site/api/portfolio/projects-imgs/f3.png",
+            "desc"  : "Fui responsável por criar e implementar alguns módulos do site."
+        }
+    ]
+}
