@@ -6,19 +6,19 @@
     "links" : [
         {
             "link" : "https://www.linkedin.com/in/leonardosoaares/",
-            "icon": "https://leosoareso.github.io/apis/site/api/icons/svgs/linkedin.svg"
+            "icon": "https://leosoareso.github.io/apis/site/api/icons/svgs/linkedin.png"
         },
         {
             "link" : "https://github.com/LeoSoaresO",
-            "icon": "https://leosoareso.github.io/apis/site/api/icons/svgs/github.svg"
+            "icon": "https://leosoareso.github.io/apis/site/api/icons/svgs/github.png"
         },
         {
             "link" : "https://api.whatsapp.com/send/?phone=11986396617&text=Ol%C3%A1+Leonardo,+tudo+bem?&type=phone_number&app_absent=0",
-            "icon": "https://leosoareso.github.io/apis/site/api/icons/svgs/whatsapp.svg"
+            "icon": "https://leosoareso.github.io/apis/site/api/icons/svgs/whatsapp.png"
         },
         {
             "link" : "mailto:leonaardo.soaares@gmail.com?subject=Olá%20Leonardo,%20visitei%20seu%20site%20e%20gostaria%20de%20entrar%20em%20contato%20sobre:",
-            "icon": "https://leosoareso.github.io/apis/site/api/icons/svgs/email.svg"
+            "icon": "https://leosoareso.github.io/apis/site/api/icons/svgs/email.png"
         }
     ]
 }
