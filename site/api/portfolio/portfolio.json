@@ -1,5 +1,5 @@
 {
-    "port": [
+    "profissional": [
         {
             "name": "Mass Media - Institucional",
             "link" : "https://www.massmedia.com.br/",
@@ -29,6 +29,56 @@
             "link" : "https://f3capital.com.br/",
             "img" : "https://leosoareso.github.io/apis/site/api/portfolio/projects-imgs/f3.png",
             "desc"  : "Fui responsável por criar e implementar alguns módulos do site."
+        }
+    ],
+    "others": [
+        {
+            "name": "Calculadora",
+            "link" : "https://leosoareso.github.io/Calculadora/",
+            "img" : "https://leosoareso.github.io/apis/site/api/portfolio/other-imgs/calculadora.png",
+            "desc"  : "Projeto pessoal feito para colocar em prática alguns conhecimentos de JS e CSS na época, totalmente funcional."
+        },
+        {
+            "name": "Medicenter",
+            "link" : "https://leosoareso.github.io/Medicenter/",
+            "img" : "https://leosoareso.github.io/apis/site/api/portfolio/other-imgs/medicenter.png",
+            "desc"  : "Projeto pessoal simples feito para testar meu conhecimento em resposividade."
+        },
+        {
+            "name": "Bikcraft",
+            "link" : "https://leosoareso.github.io/Bikcraft/",
+            "img" : "https://leosoareso.github.io/apis/site/api/portfolio/other-imgs/bikcraft.png",
+            "desc"  : "Projeto baseado no curso da Origamid, neste pude aprender sobre  Ux/Ui, Design e SEO. Além de poder botar em prática muitas habilidades que uso até hoje."
+        },
+        {
+            "name": "Site Pessoal - v1",
+            "link" : "https://leosoareso.github.io/leonardosoares/",
+            "img" : "https://leosoareso.github.io/apis/site/api/portfolio/other-imgs/site.png",
+            "desc"  : "Meu primeiro site pessoal feito com HTML, nesse projeto construí o Design e Desenvolví. Para mim é muito nostalgico vê-lo novamente."
+        },
+        {
+            "name": "Caravan",
+            "link" : "https://leosoareso.github.io/Caravan/",
+            "img" : "https://leosoareso.github.io/apis/site/api/portfolio/other-imgs/caravan.png",
+            "desc"  : "Projeto feito para estudo aprofundado sobre o Bootstrap e o NGX-bootstrap que hoje domino com maestria."
+        },
+        {
+            "name": "Techno",
+            "link" : "https://leosoareso.github.io/techno/",
+            "img" : "https://leosoareso.github.io/apis/site/api/portfolio/other-imgs/techno.png",
+            "desc"  : "Nesse projeto usei o Vue 3 para construí-lo."
+        },
+        {
+            "name": "Terminal",
+            "link" : "https://mairaarquino.github.io/terminal/",
+            "img" : "https://leosoareso.github.io/apis/site/api/portfolio/other-imgs/terminal.png",
+            "desc"  : "Nesse projeto usei o Vue 3 para construí-lo e simular um terminal que serve como um cartão de visitas para quem o acessa."
+        },
+        {
+            "name": "Sneakers Room",
+            "link" : "#",
+            "img" : "https://plus.unsplash.com/premium_photo-1671808062726-2a7ffcd6109e?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "desc"  : "Esse ainda está em construção, aguardem."
         }
     ]
 }
