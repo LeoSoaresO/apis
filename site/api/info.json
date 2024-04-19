@@ -6,19 +6,23 @@
     "links" : [
         {
             "link" : "https://www.linkedin.com/in/leonardosoaares/",
-            "icon": "https://leosoareso.github.io/apis/site/api/icons/svgs/linkedin.png"
+            "icon": "https://leosoareso.github.io/apis/site/api/icons/svgs/linkedin.png",
+            "iconWht": "https://leosoareso.github.io/apis/site/api/icons/svgs/linkedin-wht.png"
         },
         {
             "link" : "https://github.com/LeoSoaresO",
-            "icon": "https://leosoareso.github.io/apis/site/api/icons/svgs/github.png"
+            "icon": "https://leosoareso.github.io/apis/site/api/icons/svgs/github.png",
+            "iconWht": "https://leosoareso.github.io/apis/site/api/icons/svgs/github-wht.png"
         },
         {
             "link" : "https://api.whatsapp.com/send/?phone=11986396617&text=Ol%C3%A1+Leonardo,+tudo+bem?&type=phone_number&app_absent=0",
-            "icon": "https://leosoareso.github.io/apis/site/api/icons/svgs/whatsapp.png"
+            "icon": "https://leosoareso.github.io/apis/site/api/icons/svgs/whatsapp.png",
+            "iconWht": "https://leosoareso.github.io/apis/site/api/icons/svgs/whatsapp-wht.png"
         },
         {
             "link" : "mailto:leonaardo.soaares@gmail.com?subject=Olá%20Leonardo,%20visitei%20seu%20site%20e%20gostaria%20de%20entrar%20em%20contato%20sobre:",
-            "icon": "https://leosoareso.github.io/apis/site/api/icons/svgs/email.png"
+            "icon": "https://leosoareso.github.io/apis/site/api/icons/svgs/email.png",
+            "iconWht": "https://leosoareso.github.io/apis/site/api/icons/svgs/email-wht.png"
         }
     ]
 }
